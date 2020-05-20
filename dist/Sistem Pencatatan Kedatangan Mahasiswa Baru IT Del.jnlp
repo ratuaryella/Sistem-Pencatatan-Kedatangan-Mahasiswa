@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Sistem Pencatatan Kedatangan Mahasiswa Baru IT Del.jnlp">
+  <information>
+    <title>Sistem Pencatatan Kedatangan Mahasiswa Baru IT Del</title>
+    <vendor>User</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Sistem Pencatatan Kedatangan Mahasiswa Baru IT Del" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="sistem.pencatatan.kedatangan.mahasiswa.baru.it.del.SistemPencatatanKedatanganMahasiswaBaruITDel"  name="Sistem Pencatatan Kedatangan Mahasiswa Baru IT Del" />
+  <update check="always"/>
+</jnlp>
